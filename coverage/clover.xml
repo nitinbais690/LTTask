@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1653912132119" clover="3.2.0">
+  <project timestamp="1653912132119" name="All files">
+    <metrics statements="60" coveredstatements="59" conditionals="21" coveredconditionals="15" methods="18" coveredmethods="18" elements="99" coveredelements="92" complexity="0" loc="60" ncloc="60" packages="10" files="14" classes="14"/>
+    <package name="components.atoms.Icons">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="/Users/vishalkumar/Projects/REACT_NATIVE/LTTask/src/components/atoms/Icons/index.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.atoms.Input">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="/Users/vishalkumar/Projects/REACT_NATIVE/LTTask/src/components/atoms/Input/index.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="25" count="21" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.atoms.Label">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="/Users/vishalkumar/Projects/REACT_NATIVE/LTTask/src/components/atoms/Label/index.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="10" count="8" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.atoms.Loader">
+      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="/Users/vishalkumar/Projects/REACT_NATIVE/LTTask/src/components/atoms/Loader/index.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.atoms.Touchable">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="/Users/vishalkumar/Projects/REACT_NATIVE/LTTask/src/components/atoms/Touchable/index.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.molecules.Button">
+      <metrics statements="3" coveredstatements="3" conditionals="7" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <file name="index.tsx" path="/Users/vishalkumar/Projects/REACT_NATIVE/LTTask/src/components/molecules/Button/index.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="7" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="43" count="2" type="stmt"/>
+        <line num="53" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.organisms.Forms">
+      <metrics statements="18" coveredstatements="17" conditionals="5" coveredconditionals="4" methods="8" coveredmethods="8"/>
+      <file name="AddDogInfo.tsx" path="/Users/vishalkumar/Projects/REACT_NATIVE/LTTask/src/components/organisms/Forms/AddDogInfo.tsx">
+        <metrics statements="18" coveredstatements="17" conditionals="5" coveredconditionals="4" methods="8" coveredmethods="8"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="29" count="4" type="cond" truecount="4" falsecount="1"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="67" count="1" type="stmt"/>
+        <line num="68" count="5" type="stmt"/>
+        <line num="70" count="5" type="stmt"/>
+        <line num="72" count="5" type="stmt"/>
+        <line num="73" count="1" type="stmt"/>
+        <line num="76" count="5" type="stmt"/>
+        <line num="81" count="1" type="stmt"/>
+        <line num="87" count="1" type="stmt"/>
+        <line num="96" count="1" type="stmt"/>
+        <line num="103" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="components.organisms.ListItems">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <file name="DogItem.tsx" path="/Users/vishalkumar/Projects/REACT_NATIVE/LTTask/src/components/organisms/ListItems/DogItem.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="theme">
+      <metrics statements="23" coveredstatements="23" conditionals="3" coveredconditionals="3" methods="3" coveredmethods="3"/>
+      <file name="colors.ts" path="/Users/vishalkumar/Projects/REACT_NATIVE/LTTask/src/theme/colors.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="mixins.ts" path="/Users/vishalkumar/Projects/REACT_NATIVE/LTTask/src/theme/mixins.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="3" coveredconditionals="3" methods="3" coveredmethods="3"/>
+        <line num="3" count="5" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="6" count="31" type="stmt"/>
+        <line num="8" count="28" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+      </file>
+      <file name="spacing.ts" path="/Users/vishalkumar/Projects/REACT_NATIVE/LTTask/src/theme/spacing.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="4" type="stmt"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="7" count="4" type="stmt"/>
+      </file>
+      <file name="typography.ts" path="/Users/vishalkumar/Projects/REACT_NATIVE/LTTask/src/theme/typography.ts">
+        <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="4" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="8" count="4" type="stmt"/>
+        <line num="9" count="4" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="13" count="4" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="17" count="4" type="stmt"/>
+        <line num="18" count="4" type="stmt"/>
+        <line num="19" count="4" type="stmt"/>
+        <line num="23" count="4" type="stmt"/>
+        <line num="26" count="4" type="stmt"/>
+        <line num="31" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="locals.ts" path="/Users/vishalkumar/Projects/REACT_NATIVE/LTTask/src/utils/locals.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+      <file name="testIDS.ts" path="/Users/vishalkumar/Projects/REACT_NATIVE/LTTask/src/utils/testIDS.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
